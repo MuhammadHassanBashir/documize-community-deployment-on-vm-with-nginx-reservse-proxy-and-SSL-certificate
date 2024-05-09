@@ -36,7 +36,7 @@
 
 - sudo systemctl restart nginx
 
-### Applyin SSL Certificate
+### Applying SSL Certificate
 
 - snap version
 - sudo apt policy snapd
